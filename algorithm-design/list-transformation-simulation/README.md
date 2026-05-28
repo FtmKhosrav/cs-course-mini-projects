@@ -42,7 +42,7 @@ Then:
 The process repeats until stabilization.
 
 
-##️ Algorithm Steps
+## Algorithm Steps
 
 1. Initialize list with all values = 1
 2. Repeat until convergence:
