@@ -38,7 +38,7 @@ We preprocess the string using DP:
 This allows fast query answering in O(1).
 
 
-##️ Algorithm Steps
+## Algorithm Steps
 
 1. Read input string `s`
 2. Build DP array
