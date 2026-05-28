@@ -12,7 +12,7 @@ Starting from each player, we follow the reporting chain until we reach a previo
 The task is to determine the final status of each player in this system.
 
 
-## ⚙️ Logic
+## Logic
 
 - Each player points to exactly one other player.
 - Chains of reports are followed step by step.
