@@ -1,7 +1,7 @@
 
 # Prime Divisor Beauty Checker
 
-## 📌 Problem
+## Problem
 
 A number is considered beautiful if:
 
