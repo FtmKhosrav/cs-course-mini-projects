@@ -13,11 +13,11 @@ It is an educational implementation in Linear Algebra designed to demonstrate ma
 
 ## Mathematical Background
 
-A symmetric matrix \( A \) is considered **positive definite** if:
+A symmetric matrix **A** is considered **positive definite** if:
 
-\[
+```math
 x^T A x > 0 \quad \text{for all non-zero vectors } x
-\]
+```
 
 In this project, we approximate this property using a single test vector.
 
