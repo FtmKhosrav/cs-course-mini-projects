@@ -2,14 +2,6 @@ import numpy as np
 
 
 def simplex_solver(c, A, b):
-    """
-    Solves a linear programming problem using the Simplex method.
-
-    Maximize:     c^T x
-    Subject to:   Ax <= b
-                  x >= 0
-    """
-
     m, n = len(b), len(c)
 
     # Build initial simplex tableau
